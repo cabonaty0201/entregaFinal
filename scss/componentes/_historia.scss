@@ -1,0 +1,17 @@
+$background-color_1: #f8f9fa;
+
+#historia-gran-rex {
+	background-color: $background-color_1;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 800px;
+	h2 { font-size: 2rem;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+}
+p {
+	font-size: 1.2rem;
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
